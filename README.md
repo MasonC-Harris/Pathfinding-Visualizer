@@ -3,13 +3,13 @@
 A C++ pathfinding visualizer built from scratch to demonstrate my algorithmic understanding, clean architecture, and strong grasp of C++ fundamentals.
 
 ## Controls
-Pressing 1 will run breadth first search
-Pressing 2 will run depth first search
-Spacebar will clear the path
-Ctrl Spacebar will clear the grid
-Ctrl Left/Right Click will place a starting/ending point (Dont place more than one each)
-Left Click places a wall
-Right Click makes a grid cell empty
+- Pressing 1 will run breadth first search
+- Pressing 2 will run depth first search
+- Spacebar will clear the path
+- Ctrl Spacebar will clear the grid
+- Ctrl Left/Right Click will place a starting/ending point (Dont place more than one each)
+- Left Click places a wall
+- Right Click makes a grid cell empty
 
 ## Tech Stack
 
