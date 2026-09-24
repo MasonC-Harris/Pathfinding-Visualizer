@@ -209,5 +209,10 @@ void Algo::Reset() {
         frontier.pop();
     }
 
+    //Clear the stack
+    while (!dfsFrontier.empty()) {
+      frontier.pop();
+  }
+
     found = true;
 }
